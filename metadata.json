@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Delhi Bakery & Cake Shop",
+  "description": "Premium fresh bakery and cake shop in Asarwa, Ahmedabad. Specializing in daily baked cakes, pastries, biscuits, khari, and toast.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
